@@ -1,29 +1,33 @@
 # Table of contents
 
-* [What is MyProduct?](README.md)
-
-## Guides
-
-* [Creating your first project](guides/creating-your-first-project.md)
-* [Creating your first task](guides/creating-your-first-task.md)
-* [Advanced permissions](guides/advanced-permissions.md)
-
-## Fundamentals
-
-* [Projects](fundamentals/projects.md)
-* [Members](fundamentals/members.md)
-* [Task Lists](fundamentals/task-lists.md)
-* [Tasks](fundamentals/tasks.md)
-
-## Use Cases
-
-* [For Designers](use-cases/for-designers/README.md)
-  * [Figma Integration](use-cases/for-designers/figma-integration.md)
-* [For Engineers](use-cases/for-engineers/README.md)
-  * [GitHub Integration](use-cases/for-engineers/github-integration.md)
-* [For Support](use-cases/for-support/README.md)
-  * [Intercom Integration](use-cases/for-support/intercom-integration.md)
-
-## Extras
-
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [Whitepaper](README.md)
+  * [Introduction to Catgame](whitepaper/introduction-to-catgame/README.md)
+    * [What is Catgame?](whitepaper/introduction-to-catgame/what-is-catgame.md)
+    * [How exactly does Catgame work?](whitepaper/introduction-to-catgame/how-exactly-does-catgame-work/README.md)
+      * [NFT\&Token](whitepaper/introduction-to-catgame/how-exactly-does-catgame-work/nft-and-token.md)
+      * [Our innovation](whitepaper/introduction-to-catgame/how-exactly-does-catgame-work/our-innovation.md)
+      * [Smart Mint + Staking: Pledged late? You still have maximum gain!](whitepaper/introduction-to-catgame/how-exactly-does-catgame-work/smart-mint-+-staking-pledged-late-you-still-have-maximum-gain.md)
+      * [CheeSwap](whitepaper/introduction-to-catgame/how-exactly-does-catgame-work/cheeswap.md)
+      * [Cat DAO: Community Governance after Fair launch](whitepaper/introduction-to-catgame/how-exactly-does-catgame-work/cat-dao-community-governance-after-fair-launch.md)
+  * [Introduction to CatDAO](whitepaper/introduction-to-catdao/README.md)
+    * [What is CatDAO?](whitepaper/introduction-to-catdao/what-is-catdao.md)
+    * [What is the point of CatDAO?](whitepaper/introduction-to-catdao/what-is-the-point-of-catdao.md)
+    * [How do I participate in CatDAO?](whitepaper/introduction-to-catdao/how-do-i-participate-in-catdao.md)
+    * [Who created CatDAO?](whitepaper/introduction-to-catdao/who-created-catdao.md)
+  * [Explanation of terms](whitepaper/explanation-of-terms/README.md)
+    * [NFT Pledging Earnings Model (Wolf.game-like mechanism)](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/README.md)
+      * [Cat.game](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/cat.game.md)
+      * [Definition](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/definition.md)
+      * [Quick Guide](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/quick-guide.md)
+      * [Minting](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/minting.md)
+      * [Mouse](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/mouse.md)
+      * [$CHEESE](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/usdcheese.md)
+      * [Cats](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/cats.md)
+      * [Conclusion:](whitepaper/explanation-of-terms/nft-pledging-earnings-model-wolf.game-like-mechanism/conclusion.md)
+    * [Airdrop Allocation & Mint Allocation](whitepaper/explanation-of-terms/airdrop-allocation-and-mint-allocation/README.md)
+      * [Price at Mint Stage](whitepaper/explanation-of-terms/airdrop-allocation-and-mint-allocation/price-at-mint-stage.md)
+      * [Airdrop](whitepaper/explanation-of-terms/airdrop-allocation-and-mint-allocation/airdrop.md)
+    * [$CHEESE](whitepaper/explanation-of-terms/usdcheese.md)
+    * [CatDAO Treasury](whitepaper/explanation-of-terms/catdao-treasury.md)
+    * [IGO(Initial Game Offering)](whitepaper/explanation-of-terms/igo-initial-game-offering.md)
+    * [CheeSwap](whitepaper/explanation-of-terms/cheeswap.md)
