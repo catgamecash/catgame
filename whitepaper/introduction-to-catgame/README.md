@@ -23,8 +23,8 @@ For the NFT and token interaction mechanism, we will use a wolf.game-like mechan
 
 If you are not familiar with the wolf.game-like mechanism or you want to learn more about the details, please move on to NFT Pledging Earnings
 
-{% content-ref url="explanation-of-terms/nft-pledging-earnings-model/" %}
-[nft-pledging-earnings-model](explanation-of-terms/nft-pledging-earnings-model/)
+{% content-ref url="../explanation-of-terms/nft-pledging-earnings-model.md" %}
+[nft-pledging-earnings-model.md](../explanation-of-terms/nft-pledging-earnings-model.md)
 {% endcontent-ref %}
 
 Note: We will be offering NFTs of "Cat" and "Mouse" at phase0. NFT holders will be considered as core members of CatDAO and will be involved in more subsequent projects and decision making.
@@ -66,8 +66,8 @@ The distribution of air drops will also vary depending on how the game is trigge
 
 * If you need to see detailed airdrop and stake data, see:
 
-{% content-ref url="explanation-of-terms/airdrop-allocation-and-mint-allocation/" %}
-[airdrop-allocation-and-mint-allocation](explanation-of-terms/airdrop-allocation-and-mint-allocation/)
+{% content-ref url="../explanation-of-terms/airdrop-allocation-and-mint-allocation/" %}
+[airdrop-allocation-and-mint-allocation](../explanation-of-terms/airdrop-allocation-and-mint-allocation/)
 {% endcontent-ref %}
 
 Simply put, if you make the right decision, you have the chance to be the richest gainer in the house at any time in our games.
@@ -80,8 +80,8 @@ Our NFT will be purchased by $BNB throughout. All $BNB from the sale of NFT, exc
 
 * For detailed descriptions about CatDAO Treasury, see:
 
-{% content-ref url="explanation-of-terms/catdao-treasury.md" %}
-[catdao-treasury.md](explanation-of-terms/catdao-treasury.md)
+{% content-ref url="../explanation-of-terms/catdao-treasury.md" %}
+[catdao-treasury.md](../explanation-of-terms/catdao-treasury.md)
 {% endcontent-ref %}
 
 Later in Phase 1 we will go live with CheeSwap, which will offer $CHEESE-$BNB pairs with stable exchange rates.
@@ -96,8 +96,8 @@ CatDAO is an open and transparent DAO that is owned by all $CHEESE holders and i
 
 * For detailed information about CheeSwap, see:
 
-{% content-ref url="explanation-of-terms/cheeswap.md" %}
-[cheeswap.md](explanation-of-terms/cheeswap.md)
+{% content-ref url="../explanation-of-terms/cheeswap.md" %}
+[cheeswap.md](../explanation-of-terms/cheeswap.md)
 {% endcontent-ref %}
 
 #### Conclusion
