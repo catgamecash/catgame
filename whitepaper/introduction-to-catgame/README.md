@@ -23,8 +23,8 @@ For the NFT and token interaction mechanism, we will use a wolf.game-like mechan
 
 If you are not familiar with the wolf.game-like mechanism or you want to learn more about the details, please move on to NFT Pledging Earnings
 
-{% content-ref url="../explanation-of-terms/nft-pledging-earnings-model.md" %}
-[nft-pledging-earnings-model.md](../explanation-of-terms/nft-pledging-earnings-model.md)
+{% content-ref url="../explanation-of-terms/nft-staking-earnings-model.md" %}
+[nft-staking-earnings-model.md](../explanation-of-terms/nft-staking-earnings-model.md)
 {% endcontent-ref %}
 
 Note: We will be offering NFTs of "Cat" and "Mouse" at phase0. NFT holders will be considered as core members of CatDAO and will be involved in more subsequent projects and decision making.

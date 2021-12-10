@@ -1,4 +1,4 @@
-# NFT Pledging Earnings Model
+# NFT Staking Earnings Model
 
 ### Cat.game
 
@@ -17,7 +17,7 @@ You get to decide how to interact with the community using your NFTs and $CHEESE
 Stage 1:
 
 * NFT: phase0 has and only has 10,000 NFTs that can be purchased at a stepped price before the end of phase0.
-* Mouse Pledge: You can pledge Mouse to get $CHEESE tokens. You can claim to get 80% of the $CHEESE you have earned, or take a 50% chance to unstake with the risk of all $CHEESE being stolen by cats.
+* Mouse Staking: You can stake Mouse to get $CHEESE tokens. You can claim to get 80% of the $CHEESE you have earned, or take a 50% chance to unstake with the risk of all $CHEESE being stolen by cats.
 * NFT Stealing Mechanism: If you want to bring a new mouse into the house, the cats will try their best to catch our new guy - and when they succeed, they will give it to a randomly chosen Cat NFT holder instead of the owner who initially minted it.
 
 #### Minting
@@ -44,9 +44,9 @@ You have a 90% chance of minting a Mouse and they all have unique characteristic
 
 #### $CHEESE
 
-Only a maximum of six days in total can be pledged for the production of $CHEESE.
+Only a maximum of six days in total can be staked for the production of $CHEESE.
 
-After six days have elapsed since the first NFT was pledged, or after all NFTs have been minted, staking will no longer produce $CHEESE.
+After six days have elapsed since the first NFT was staked, or after all NFTs have been minted, staking will no longer produce $CHEESE.
 
 At the same time, CheeSwap will be opened. You will be able to exchange your proceeds of $CHEESE for $BNB at a stable price at any time to leave the game. Or, if you want to participate in our phase1 game or participate in the governance of CatDAO later, you can choose to buy more $CHEESE at this time.
 
