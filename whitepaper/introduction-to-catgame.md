@@ -19,25 +19,27 @@ For the NFT and token interaction mechanism, we will use a wolf.game-like mechan
 * Mouse: Pledge to produce $CHEESE
 * Cat: Pledge to steal the $CHEESE from the mouse or steal the newborn NFT (cat and mouse) directly
 
+
+
 If you are not familiar with the wolf.game-like mechanism or you want to learn more about the details, please move on to NFT Pledging Earnings
+
+{% content-ref url="explanation-of-terms/nft-pledging-earnings-model/" %}
+[nft-pledging-earnings-model](explanation-of-terms/nft-pledging-earnings-model/)
+{% endcontent-ref %}
 
 Note: We will be offering NFTs of "Cat" and "Mouse" at phase0. NFT holders will be considered as core members of CatDAO and will be involved in more subsequent projects and decision making.
 
-* NFT Pledging Earnings: (wolf.game-like mechanism) See appendix
+
 
 Beyond the mechanism, it's all about our innovation:
 
-#### Our innovation
+### Our innovation?
 
 We will emphasize this part.
 
-In the accustomed mechanism of all previous tokens or NFTs, it is predetermined that users who entered the project late would receive minimal expected returns. As every participants are expected to be our DAO member, we don't want that. We want you to be able to **profit** by making the right decisions **at all times**. Therefore, we propose the complete process of Initial Game Offering (IGO): Smart Mint + CheeSwap + CaDAO. In addition to the innovation in the Minting mechanism, we also creatively propose: CheeSwap, which guarantees that everyone who participates in the Mint process is protected by smart contracts from secondary market speculators. Finally, with Cat DAO, we guarantee that all processes are executed by smart contracts and 80% of the Mint sale will be injected into CatDAO Treasury, guaranteeing that every $CHEESE is backed by cash.
+In the accustomed mechanism of all previous tokens or NFTs, it is predetermined that users who entered the project late would receive minimal expected returns. As every participants are expected to be our DAO member, we don't want that. We want you to be able to **profit** by making the right decisions **at all times**.&#x20;
 
-With IGO, a community is able to fair launch a token and membership through a GameFi for the first time. This purely on-chain fundraising approach will promise the community a "neutral fund" and first users and DAO members right after it launches.
-
-> In the accustomed mechanism of all previous tokens or NFTs, it is predetermined that users who entered the project late would receive minimal expected returns. As every participants are expected to be our DAO member, we don't want that. We want you to be able to profit by making the right decisions at all times.
-
-Smart Mint + Staking: Pledged late? You still have maximum gain!
+#### Smart Mint + Staking: Pledged late? You still have maximum gain!
 
 In our mechanism design, whitelisted users' earnings will be guaranteed by the algorithm, but missing the earliest entry does not mean you will suffer losses.
 
@@ -62,7 +64,11 @@ The distribution of air drops will also vary depending on how the game is trigge
 
 **We will airdrop at least as many tokens as the total pledged output tokens, and in extreme cases, we will airdrop ten times as many tokens as the pledged output tokens.**
 
-* If you need to see detailed airdrop and pledge data, see appendix
+* If you need to see detailed airdrop and stake data, see:
+
+{% content-ref url="explanation-of-terms/airdrop-allocation-and-mint-allocation/" %}
+[airdrop-allocation-and-mint-allocation](explanation-of-terms/airdrop-allocation-and-mint-allocation/)
+{% endcontent-ref %}
 
 Simply put, if you make the right decision, you have the chance to be the richest gainer in the house at any time in our games.
 
@@ -71,6 +77,12 @@ Simply put, if you make the right decision, you have the chance to be the riches
 CheeSwap is a stable swap, users can swap $CHEESE that they gain from pledging NFTs at a constant exchange rate into $BNB. Meanwhile, we welcome users to buy $CHEESE in CheeSwap, but the purchase price of $CHEESE will be higher than the sell price of $CHEESE, as to protect the earnings of our NFT users (i.e. NFT users have the lowest cost of $CHEESE in the world).
 
 Our NFT will be purchased by $BNB throughout. All $BNB from the sale of NFT, except for 20% which will go to the team, will enter CatDAO Treasury as a guarantee for CatDAO's subsequent development.
+
+* For detailed descriptions about CatDAO Treasury, see:
+
+{% content-ref url="explanation-of-terms/catdao-treasury.md" %}
+[catdao-treasury.md](explanation-of-terms/catdao-treasury.md)
+{% endcontent-ref %}
 
 Later in Phase 1 we will go live with CheeSwap, which will offer $CHEESE-$BNB pairs with stable exchange rates.
 
@@ -81,3 +93,15 @@ Thanks to CheeSwap, you will be able to take profit or purchase $CHEESE at any t
 Cat DAO: Community Governance after Fair launch
 
 CatDAO is an open and transparent DAO that is owned by all $CHEESE holders and is clean from the first day it was created.
+
+* For detailed information about CheeSwap, see:
+
+{% content-ref url="explanation-of-terms/cheeswap.md" %}
+[cheeswap.md](explanation-of-terms/cheeswap.md)
+{% endcontent-ref %}
+
+#### Conclusion
+
+We proposed the complete process of Initial Game Offering (IGO): Smart Mint + CheeSwap + CatDAO. In addition to the innovation in the Minting mechanism, we also creatively propose: CheeSwap, which guarantees that everyone who participates in the Mint process is protected by smart contracts from secondary market speculators. Finally, with Cat DAO, we guarantee that all processes are executed by smart contracts and 80% of the Mint sale will be injected into CatDAO Treasury, guaranteeing that every $CHEESE is backed by cash.
+
+With IGO, a community is able to fair launch a token and membership through a GameFi for the first time. This purely on-chain fundraising approach will promise the community a "neutral fund" and first users and DAO members right after it launches.
