@@ -2,7 +2,7 @@
 
 ### **What is Catgame?**
 
-Catgame is the starter game of CatDAO, where you will acquire CatDAO's (See CatDAO) governing token, $CHEESE (See CHEESE), by pledging the NFTs we offer, and enjoy the benefits and surprises of the carefully designed game mechanics during the process.
+Catgame is the starter game of CatDAO, where you will acquire CatDAO's governing token, $CHEESE, by pledging the NFTs we offer, and enjoy the benefits and surprises of the carefully designed game mechanics during the process.
 
 All the $BNB earned from selling NFTs will be directly locked in the CatDAO Treasury (See CatDAO Treasury) through the smart contract and provide a stable $CHEESE-$BNB exchange through CatSwap, which will open in the later stage of the game. In other words, CatDAO will maintain a constant price for the tokens you get, so don't worry about the devaluation of $CHEESE until the secondary market opens.
 
@@ -19,12 +19,10 @@ For the NFT and token interaction mechanism, we will use a wolf.game-like mechan
 * Mouse: Pledge to produce $CHEESE
 * Cat: Pledge to steal the $CHEESE from the mouse or steal the newborn NFT (cat and mouse) directly
 
-
-
 If you are not familiar with the wolf.game-like mechanism or you want to learn more about the details, please move on to NFT Pledging Earnings
 
-{% content-ref url="../explanation-of-terms/nft-staking-earnings-model.md" %}
-[nft-staking-earnings-model.md](../explanation-of-terms/nft-staking-earnings-model.md)
+{% content-ref url="explanation-of-terms/nft-staking-earnings-model.md" %}
+[nft-staking-earnings-model.md](explanation-of-terms/nft-staking-earnings-model.md)
 {% endcontent-ref %}
 
 Note: We will be offering NFTs of "Cat" and "Mouse" at phase0. NFT holders will be considered as core members of CatDAO and will be involved in more subsequent projects and decision making.
@@ -62,12 +60,14 @@ The distribution of air drops will also vary depending on how the game is trigge
 1. If you fail to mint all the NFTs, the last 1000 players who successfully minted before the cutoff will receive 75% of our airdrop.
 2. If the number of mint reaches the maximum number: 80% of players in the middle will get 90% of the airdrop.
 
+![](<.gitbook/assets/image (5).png>)
+
 **We will airdrop at least as many tokens as the total pledged output tokens, and in extreme cases, we will airdrop ten times as many tokens as the pledged output tokens.**
 
 * If you need to see detailed airdrop and stake data, see:
 
-{% content-ref url="../explanation-of-terms/airdrop-allocation-and-mint-allocation/" %}
-[airdrop-allocation-and-mint-allocation](../explanation-of-terms/airdrop-allocation-and-mint-allocation/)
+{% content-ref url="explanation-of-terms/airdrop-allocation-and-mint-allocation/" %}
+[airdrop-allocation-and-mint-allocation](explanation-of-terms/airdrop-allocation-and-mint-allocation/)
 {% endcontent-ref %}
 
 Simply put, if you make the right decision, you have the chance to be the richest gainer in the house at any time in our games.
@@ -78,10 +78,12 @@ CheeSwap is a stable swap, users can swap $CHEESE that they gain from pledging N
 
 Our NFT will be purchased by $BNB throughout. All $BNB from the sale of NFT, except for 20% which will go to the team, will enter CatDAO Treasury as a guarantee for CatDAO's subsequent development.
 
+![](<.gitbook/assets/image (4).png>)
+
 * For detailed descriptions about CatDAO Treasury, see:
 
-{% content-ref url="../explanation-of-terms/catdao-treasury.md" %}
-[catdao-treasury.md](../explanation-of-terms/catdao-treasury.md)
+{% content-ref url="explanation-of-terms/catdao-treasury.md" %}
+[catdao-treasury.md](explanation-of-terms/catdao-treasury.md)
 {% endcontent-ref %}
 
 Later in Phase 1 we will go live with CheeSwap, which will offer $CHEESE-$BNB pairs with stable exchange rates.
@@ -96,8 +98,8 @@ CatDAO is an open and transparent DAO that is owned by all $CHEESE holders and i
 
 * For detailed information about CheeSwap, see:
 
-{% content-ref url="../explanation-of-terms/cheeswap.md" %}
-[cheeswap.md](../explanation-of-terms/cheeswap.md)
+{% content-ref url="explanation-of-terms/cheeswap.md" %}
+[cheeswap.md](explanation-of-terms/cheeswap.md)
 {% endcontent-ref %}
 
 #### Conclusion
