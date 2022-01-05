@@ -30,7 +30,7 @@ Stage 1:
 | ---------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Mint a new mouse | There is a 10% chance that the NFT is actually a Cat! | 10% chance of the new Cat or Mouse being stolen by a staked Cat. Each Cat's chance of success is proportional to their Skill Level. |
 
-80% of the $BNB spent on Mint will go to CatDAO Treasury to provide value anchoring and the remaining 20% will go to the development team.
+80% of the $ETH spent on Mint will go to CatDAO Treasury to provide value anchoring and the remaining 20% will go to the development team.
 
 #### Mouse
 
@@ -48,7 +48,7 @@ Only a maximum of six days in total can be staked for the production of $CHEESE.
 
 After six days have elapsed since the first NFT was staked, or after all NFTs have been minted, staking will no longer produce $CHEESE.
 
-At the same time, CheeSwap will be opened. You will be able to exchange your proceeds of $CHEESE for $BNB at a stable price at any time to leave the game. Or, if you want to participate in our phase1 game or participate in the governance of CatDAO later, you can choose to buy more $CHEESE at this time.
+At the same time, CheeSwap will be opened. You will be able to exchange your proceeds of $CHEESE for $ETH at a stable price at any time to leave the game. Or, if you want to participate in our phase1 game or participate in the governance of CatDAO later, you can choose to buy more $CHEESE at this time.
 
 (For more information on the mechanism of CheeSwap, see appendix)
 

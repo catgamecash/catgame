@@ -10,9 +10,9 @@ Specific mechanisms:
 
 We will calculate the intrinsic value of each $CHEESE.
 
-**Intrinsic value = total amount of $BNB in the treasury / total amount of $CHEESE in circulation**
+**Intrinsic value = total amount of $ETH in the treasury / total amount of $CHEESE in circulation**
 
-In CheeSwap, you can sell your $CHEESE at 95% of its intrinsic value in exchange for its corresponding $BNB, or you can buy $CHEESE at 50% above its intrinsic value, and the sold $CHEESE will be stored in swap for others to buy.
+In CheeSwap, you can sell your $CHEESE at 95% of its intrinsic value in exchange for its corresponding $ETH, or you can buy $CHEESE at 50% above its intrinsic value, and the sold $CHEESE will be stored in swap for others to buy.
 
 This means that whether you buy or sell, we increase the intrinsic value of each $CHEESE, so you have a chance to get $CHEESE at a very low price, regardless of whether you win the first phase of the game or not. The sale of $CHEESE by others during the swap does not result in a loss of interest for you, rather the sale by others will increase the value of your $CHEESE.
 
@@ -22,4 +22,4 @@ In order to prevent the unlimited issuance of $CHEESE, CheeSwap has a total of 2
 
 After CheeSwap is closed, $CHEESE that have not yet redeemed will be destroyed to ensure the value of the outstanding $CHEESE.
 
-When everyone has sufficiently exchanged price and the first phase is over, everyone's assets are backed by $BNB as their intrinsic value. Theoretically, the maximum retraction for everyone after the LP opening has been fixed. We will work together with CatDAO members to keep creating new games in the blockchain world.
+When everyone has sufficiently exchanged price and the first phase is over, everyone's assets are backed by $ETH as their intrinsic value. Theoretically, the maximum retraction for everyone after the LP opening has been fixed. We will work together with CatDAO members to keep creating new games in the blockchain world.

@@ -4,13 +4,13 @@
 
 Catgame is the starter game of CatDAO, where you will acquire CatDAO's governing token, $CHEESE, by pledging the NFTs we offer, and enjoy the benefits and surprises of the carefully designed game mechanics during the process.
 
-All the $BNB earned from selling NFTs will be directly locked in the CatDAO Treasury (See CatDAO Treasury) through the smart contract and provide a stable $CHEESE-$BNB exchange through CatSwap, which will open in the later stage of the game. In other words, CatDAO will maintain a constant price for the tokens you get, so don't worry about the devaluation of $CHEESE until the secondary market opens.
+All the $ETH earned from selling NFTs will be directly locked in the CatDAO Treasury (See CatDAO Treasury) through the smart contract and provide a stable $CHEESE-$ETH exchange through CatSwap, which will open in the later stage of the game. In other words, CatDAO will maintain a constant price for the tokens you get, so don't worry about the devaluation of $CHEESE until the secondary market opens.
 
 ### How exactly does Catgame work？
 
-Catgame is an interactive protocol based on BSC's NFTs and tokens. You will be able to buy NFTs with $BNB and subsequently pledge them to produce $CHEESE.
+Catgame is an interactive protocol based on optimistic rollup's NFTs and tokens. You will be able to buy NFTs with $ETH and subsequently pledge them to produce $CHEESE.
 
-All $BNB collected from selling NFTs will be deposited in CatDAO Treasury and you will be able to sell your $CHEESE at a constant price at any time during the game to gain profits.
+All $ETH collected from selling NFTs will be deposited in CatDAO Treasury and you will be able to sell your $CHEESE at a constant price at any time during the game to gain profits.
 
 #### NFT\&Token
 
@@ -45,7 +45,7 @@ In traditional projects, the latecomers will pay a significant profit for the ea
 
 But in Catgame, we add a prediction mechanism for Mint progress, and there will be a mechanism to reward later comers. We link everyone's profit to the outcome of the game on Mint progress. So, it is still possible for the latecomers to make a profit before the outcome of the game is known.
 
-As an example: in the case of incomplete Mint progress, the last 1000 comers can get a maximum return on investment of more than 300% return on investment and all your $CHEESE are backed by $BNB in the Treasury, they can be redeemed at a stable rate.
+As an example: in the case of incomplete Mint progress, the last 1000 comers can get a maximum return on investment of more than 300% return on investment and all your $CHEESE are backed by $ETH in the Treasury, they can be redeemed at a stable rate.
 
 If you miss the opportunity to become an early pledger, you will have the opportunity to maximize your return by making the right prediction of our Mint progress.
 
@@ -74,9 +74,9 @@ Simply put, if you make the right decision, you have the chance to be the riches
 
 #### CheeSwap:
 
-CheeSwap is a stable swap, users can swap $CHEESE that they gain from pledging NFTs at a constant exchange rate into $BNB. Meanwhile, we welcome users to buy $CHEESE in CheeSwap, but the purchase price of $CHEESE will be higher than the sell price of $CHEESE, as to protect the earnings of our NFT users (i.e. NFT users have the lowest cost of $CHEESE in the world).
+CheeSwap is a stable swap, users can swap $CHEESE that they gain from pledging NFTs at a constant exchange rate into $ETH. Meanwhile, we welcome users to buy $CHEESE in CheeSwap, but the purchase price of $CHEESE will be higher than the sell price of $CHEESE, as to protect the earnings of our NFT users (i.e. NFT users have the lowest cost of $CHEESE in the world).
 
-Our NFT will be purchased by $BNB throughout. All $BNB from the sale of NFT, except for 20% which will go to the team, will enter CatDAO Treasury as a guarantee for CatDAO's subsequent development.
+Our NFT will be purchased by $ETH throughout. All $ETH from the sale of NFT, except for 20% which will go to the team, will enter CatDAO Treasury as a guarantee for CatDAO's subsequent development.
 
 ![](<.gitbook/assets/image (4).png>)
 
@@ -86,7 +86,7 @@ Our NFT will be purchased by $BNB throughout. All $BNB from the sale of NFT, exc
 [catdao-treasury.md](explanation-of-terms/catdao-treasury.md)
 {% endcontent-ref %}
 
-Later in Phase 1 we will go live with CheeSwap, which will offer $CHEESE-$BNB pairs with stable exchange rates.
+Later in Phase 1 we will go live with CheeSwap, which will offer $CHEESE-$ETH pairs with stable exchange rates.
 
 $CHEESE, as our key governance token in the later stages, will never be issued in increments and has a constant limited amount. As the launching phase, we do not want its price to be influenced by the secondary market and cause drastic ups and downs. This will affect the positive development of the CatDAO community.
 
