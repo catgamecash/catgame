@@ -1,6 +1,6 @@
 # NFT Staking Earnings Model
 
-### Cat.game
+Cat.game
 
 Cats and mice, competing for cheese in the house of the meta-universe. The mice have worked hard to collect the cheese, and the cats are eyeing the mice's results. Will the mice hand over some of the cheese to the cat for safety, or will they take a chance and risk losing everything to take all the cheese with them?
 
@@ -18,23 +18,23 @@ Stage 1:
 
 * NFT: phase0 has and only has 10,000 NFTs that can be purchased at a stepped price before the end of phase0.
 * Mouse Staking: You can stake Mouse to get $CHEESE tokens. You can claim to get 80% of the $CHEESE you have earned, or take a 50% chance to unstake with the risk of all $CHEESE being stolen by cats.
-* NFT Stealing Mechanism: If you want to bring a new mouse into the house, the cats will try their best to catch our new guy - and when they succeed, they will give it to a randomly chosen Cat NFT holder instead of the owner who initially minted it.
+* NFT Stealing Mechanism: If you want to bring a new mouse into the house, the cats will try their best to catch our new guy - and when they succeed, they will give it to a randomly chosen cat NFT holder instead of the owner who initially minted it.
 
 #### Minting
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d10f2b36-636e-434a-952b-a7dd4628eecf/Untitled.png)
+![](<../.gitbook/assets/cat3 (1).jpg>)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2bb09d1a-75c5-44b8-8081-4d01add77cb7/Untitled.png)
+![](../.gitbook/assets/8.jpg)
 
 | Action           | Notes                                                 | Risk                                                                                                                                |
 | ---------------- | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | Mint a new mouse | There is a 10% chance that the NFT is actually a Cat! | 10% chance of the new Cat or Mouse being stolen by a staked Cat. Each Cat's chance of success is proportional to their Skill Level. |
 
-80% of the $ETH spent on Mint will go to CatDAO Treasury to provide value anchoring and the remaining 20% will go to the development team.
+80% of the $ETH spent on mint will go to CatDAO Treasury to provide value anchoring and the remaining 20% will go to the development team.
 
 #### Mouse
 
-You have a 90% chance of minting a Mouse and they all have unique characteristics. They can do:
+You have a 90% chance of minting a mouse and they all have unique characteristics. They can do:
 
 | Action        | Notes                                                                                                                                | Risk                                                                                                                                                                 |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,12 +56,12 @@ After CheeSwap ends, we will open the secondary market for trading.
 
 #### Cats
 
-You have a 10% chance of minting a Cat and they all have unique characteristics and Skill Levels.
+You have a 10% chance of minting a Cat and they all have unique characteristics and skill levels.
 
-The higher Skill Levels indicats:
+The higher skill levels indicates:
 
-* Higher portion of $CHEESE that cat earns from harrassing mice taking CHEESE back to the Hole.
-* Higher chance of catching a newly minted Cat or Mouse.
+* Higher portion of $CHEESE that cat earns from harrassing mice taking CHEESE back to the hole.
+* Higher chance of catching a newly minted cat or mouse.
 
 They can do:
 

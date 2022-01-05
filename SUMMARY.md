@@ -9,5 +9,4 @@
     * [Airdrop](explanation-of-terms/airdrop-allocation-and-mint-allocation/airdrop.md)
   * [$CHEESE](explanation-of-terms/usdcheese.md)
   * [CatDAO Treasury](explanation-of-terms/catdao-treasury.md)
-  * [IGO(Initial Game Offering)](explanation-of-terms/igo-initial-game-offering.md)
   * [CheeSwap](explanation-of-terms/cheeswap.md)

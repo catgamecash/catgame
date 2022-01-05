@@ -1,2 +1,0 @@
-# IGO(Initial Game Offering)
-
