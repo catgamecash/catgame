@@ -1,0 +1,411 @@
+{
+	"compiler": {
+		"version": "0.8.7+commit.e28d00a7"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "address",
+						"name": "previousOwner",
+						"type": "address"
+					},
+					{
+						"indexed": true,
+						"internalType": "address",
+						"name": "newOwner",
+						"type": "address"
+					}
+				],
+				"name": "OwnershipTransferred",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "account",
+						"type": "address"
+					}
+				],
+				"name": "Paused",
+				"type": "event"
+			},
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "address",
+						"name": "account",
+						"type": "address"
+					}
+				],
+				"name": "Unpaused",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "CHEESE",
+				"outputs": [
+					{
+						"internalType": "contract Cheese",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "CatDAO",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "WBNB",
+				"outputs": [
+					{
+						"internalType": "contract IERC20",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "WBNBADDRESS",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getAllowance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getBalance",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getBalanceOfCheese",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "owner",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "pauseSwap",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "paused",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "renounceOwnership",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "restartSwap",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "contract Cheese",
+						"name": "_CHEESE",
+						"type": "address"
+					}
+				],
+				"name": "setCheeseAddress",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_rate",
+						"type": "uint256"
+					}
+				],
+				"name": "setSwapRate",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_amount",
+						"type": "uint256"
+					}
+				],
+				"name": "swapFromBNBToCheese",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_amount",
+						"type": "uint256"
+					},
+					{
+						"internalType": "address payable",
+						"name": "_to",
+						"type": "address"
+					}
+				],
+				"name": "swapFromCHEESEToBNB",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "swapRate",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "newOwner",
+						"type": "address"
+					}
+				],
+				"name": "transferOwnership",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "_CatDAO",
+						"type": "address"
+					}
+				],
+				"name": "withdrawAllBalanceToCatDAO",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {
+				"owner()": {
+					"details": "Returns the address of the current owner."
+				},
+				"paused()": {
+					"details": "Returns true if the contract is paused, and false otherwise."
+				},
+				"renounceOwnership()": {
+					"details": "Leaves the contract without owner. It will not be possible to call `onlyOwner` functions anymore. Can only be called by the current owner. NOTE: Renouncing ownership will leave the contract without an owner, thereby removing any functionality that is only available to the owner."
+				},
+				"transferOwnership(address)": {
+					"details": "Transfers ownership of the contract to a new account (`newOwner`). Can only be called by the current owner."
+				}
+			},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/CheeSwap.sol": "CheeSwap"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/CHEESE.sol": {
+			"keccak256": "0x5f64d3058ad21f200294b03c3d6c3584417b73e8c894062c07948bb98a88ccb2",
+			"license": "MIT LICENSE",
+			"urls": [
+				"bzz-raw://cd1127130dc3aea1be6a24fae4363ff185f3aeb8f4d61a7aa4192bef33bcd073",
+				"dweb:/ipfs/QmefCsCjb8kCYHe8bZEx4HHf5pSbkckTsRiZXjxPV66CzR"
+			]
+		},
+		"contracts/CheeSwap.sol": {
+			"keccak256": "0x7f84b5ff84d61c590f8773f03236fd34794e481c423838e9c0be95eee0623a85",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5474e2e22ca0e353a6075f988c4fae5491c731ae971a372996f83cf67132f949",
+				"dweb:/ipfs/QmfQgEAWpwgGRXnLzMWWJSFSkgAVaV8Z8Ek8U3Xf7buZ26"
+			]
+		},
+		"contracts/Context.sol": {
+			"keccak256": "0x2e2ac762cc60af55c199a4926f4c360aa00cec4af6dfed7475fc866353ea6c58",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://98f72b227c30903022ee8a898b55dacbbcc73d633e10022edcaeea61e4ef312e",
+				"dweb:/ipfs/QmedXrqXE7r6Pazs4aBfwDJNPdiw25ovisBiWZ3EACFQFh"
+			]
+		},
+		"contracts/ERC20.sol": {
+			"keccak256": "0x9bccabf49543fdaf050ea158396442017b6745983949a446f0869921737647e6",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8e7b690b7f4e0cf99cab53679774a9d4cd662cb7864ec51ef91339b810bf3895",
+				"dweb:/ipfs/QmZAEti4Xk5fdY6GbMBJgN8Wo7U6zsXR8NQK7k5XUfsa73"
+			]
+		},
+		"contracts/IERC20.sol": {
+			"keccak256": "0x86c14973ef3c7c92e70f12a3ac006b493b6c1113ce1da734ab42bbc0a6b513e2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1782d170cef01249659816b77815d16efb0685a2645d0fac8594f9a7e4ad7dc1",
+				"dweb:/ipfs/QmdrNnPxe2WydfDCUgufK2SkuesSttiAxCaBni6uVmML6Y"
+			]
+		},
+		"contracts/IERC20Metadata.sol": {
+			"keccak256": "0x6b4c25d0b248b58e82c08d810dd5780635519442d44b74e01e3a1d5d411d6cf8",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://05eb1f822c75b36d4ca2d41a2edca83d2c229b189c4791f57aa3fe3162bbdb43",
+				"dweb:/ipfs/QmTczGmzJZZ4GgdUJcLSuRQoz3gudVfSmWWepCRCBjTLeW"
+			]
+		},
+		"contracts/Ownable.sol": {
+			"keccak256": "0xe400052bf63759e6d4dc6c1611a1fb2cb85647a6244cdde03b6d5d21e059916a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://51851bf054fa2dfa29ba43922488720aed6a3302e14a42ed0b73e102c573b7d7",
+				"dweb:/ipfs/QmYtMnYfAodvJxxkWZwzojJDXjg3rziipa9jty6EjUPpAm"
+			]
+		},
+		"contracts/Pausable.sol": {
+			"keccak256": "0xb4a690824846b3c15be1404e5165da3e3229d9ace5393a0b9c1d37b4d393cbd5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e35c17a32f608527c427cc57989f7967c00438faec5806bab9550b9897aea0ca",
+				"dweb:/ipfs/QmfLK119N79ezFfiKyf8FY6kEzbLGV966Wd5nMb8YF98LN"
+			]
+		},
+		"contracts/UserTransferable.sol": {
+			"keccak256": "0x60a854426be96e7128fbbf08775d1a5e62829cafe7778a78695580712b897e1a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://b8dfb07f339ba6c43ab067dc10e5abd11c35db73c62f05372a0a92fbdd40cc85",
+				"dweb:/ipfs/QmSJQDtehWKHyoycMzjodtR9SLapYGkVkptZcqkS7tcAJ4"
+			]
+		}
+	},
+	"version": 1
+}
