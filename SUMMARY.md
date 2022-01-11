@@ -3,6 +3,7 @@
 * [Introduction to Catgame](README.md)
 * [Introduction to CatDAO](introduction-to-catdao.md)
 * [Explanation of terms](explanation-of-terms/README.md)
+  * [Smart-Mint](explanation-of-terms/smart-mint.md)
   * [NFT Staking Earnings Model](explanation-of-terms/nft-staking-earnings-model.md)
   * [Airdrop Allocation & Mint Allocation](explanation-of-terms/airdrop-allocation-and-mint-allocation/README.md)
     * [Price at Mint Stage](explanation-of-terms/airdrop-allocation-and-mint-allocation/price-at-mint-stage.md)

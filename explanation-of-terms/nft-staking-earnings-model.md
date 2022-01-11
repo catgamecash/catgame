@@ -22,9 +22,11 @@ Stage 1:
 
 #### Minting
 
-![](<../.gitbook/assets/cat3 (1).jpg>)
+**Interpretation for Different Minting Stage**
 
-![](../.gitbook/assets/8.jpg)
+The ladder-type growth represents the difficulty of minting as well. However, we do not want subsequent participants to have a certain loss, which leads to increasing pressure on minting. Therefore, we set up the following mechanism to reduce minting pressure: using airdrops for secondary distribution of wealth, turning an otherwise simple game into a game of chance.
+
+![](<../.gitbook/assets/cat3 (1).jpg>)
 
 | Action           | Notes                                                 | Risk                                                                |
 | ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------- |
