@@ -24,7 +24,9 @@ Stage 1:
 
 **Interpretation for Different Minting Stage**
 
-The ladder-type growth represents the difficulty of minting as well. However, we do not want subsequent participants to have a certain loss, which leads to increasing pressure on minting. Therefore, we set up the following mechanism to reduce minting pressure: using airdrops for secondary distribution of wealth, turning an otherwise simple game into a game of chance.
+The ladder-type growth in price represents the difficulty of minting as well. However, we do not want subsequent participants to lose certainly, which leads to increasing pressure on minting. Therefore, we set up the following mechanism to reduce minting pressure: using airdrops for secondary distribution of wealth, turning an otherwise simple game into a game of chance.
+
+Note: Cat DAO membership (i.e., NFT) itself comes with value; in the long term, its value in Cat DAO becomes its major value.
 
 ![](<../.gitbook/assets/cat3 (1).jpg>)
 
