@@ -1,26 +1,24 @@
 # CheeSwap
 
-**Pre-req: The Intrinsic Mechanism of a $CHEESE**
+### **Pre-req:**
 
-We consider the intrinsic value of a $CHEESE is equal to -- the total assets Treasury divided by all liquidated $CHEESE (Let’s assume there is 300 million $CHEESE).
+**The Intrinsic Mechanism of a $CHEESE**
 
-&#x20;For example, if 100 $ETH are deposited in Treasury to be distributed among all tokens, the value of each $CHEESE is 100/300,000,000 $ETH.
+We consider the intrinsic value of a $CHEESE is equal to -- the total assets in Treasury divided by all circulating $CHEESE. For example, let’s assume there are 300 million $CHEESE, if 100 $ETH are deposited in Treasury to be distributed among all tokens, the value of each $CHEESE is 100/300,000,000 $ETH.
 
-&#x20;
+### **Interpretation**
 
-**Interpretation**
-
-Every time an NFT is minted, the intrinsic value of a $CHEESE will increase, and then the value of your daily output of $CHEESE will become higher. Vice versa, if no one mints, the intrinsic value of a $CHEESE will be little, and your game pledge output will become less.
+Every time an NFT is minted, the intrinsic value of a $CHEESE will increase, and the value of your daily output of $CHEESE will become higher. Vice versa, if no one mints, the intrinsic value of a $CHEESE will be little, and your staking return will become less.
 
 &#x20;
 
-**Rules for Stable Exchange: To be determined by community voting result**
+**Rules for Stable Exchange:**&#x20;
 
-As of now, you can vote for the fee for buying and selling $CHEESE
+### **To be determined by community voting result**
 
+We will release several plans for you to vote. Our community will decide the fee for buying and selling $CHEESE.
 
-
-**Why CheeSwap**
+### **Why CheeSwap**
 
 We have observed that many speculators hoard a lot of tokens needed for the game before the game starts, and when the game is launched, they sell off a lot of them, causing a bad experience for the real players and becoming a serious resistance to the rise of tokens. We designed CheeSwap to generate a stable price of cheeses to prevent speculators from manipulating the price outside the secondary market, and to make the game launch as fair as possible.
 
